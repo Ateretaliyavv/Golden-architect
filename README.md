@@ -9,3 +9,5 @@
 המשחק מתאים למחשב רגיל ולפלאפון.
 <img width="834" height="556" alt="image" src="https://github.com/user-attachments/assets/6b588529-b269-43aa-a988-bb8165d6a3f4" />
 
+קישור לדף wiki עם הרכיבים הרשימיים https://github.com/Ateretaliyavv/Golden-architect/wiki
+
